@@ -1,0 +1,14 @@
+{
+  "name": "xapi-validator",
+  "version": "0.0.1",
+  "description": "Validate an xAPI statement",
+  "main": "lib/api.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nicolaasmatthijs/xapi-validator.git"
+  },
+  "dependencies": {
+    "jayschema": "latest",
+    "lodash": "latest"
+  }
+}
